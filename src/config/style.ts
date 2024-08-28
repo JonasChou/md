@@ -48,6 +48,11 @@ export const fontSizeOptions: IConfigOption[] = [
 
 export const colorOptions: IConfigOption[] = [
   {
+    label: `自定红`,
+    value: `#952A32`,
+    desc: `zc自定自定`,
+  },
+  {
     label: `经典蓝`,
     value: `#0F4C81`,
     desc: `最新流行`,
